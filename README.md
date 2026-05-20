@@ -33,12 +33,16 @@ This project focuses on forecasting product demand using machine learning techni
 ```bash
 project-folder/
 │
-├── data/                  # Dataset files
-├── notebooks/             # Jupyter notebooks
-├── models/                # Saved machine learning models
-├── images/                # Screenshots & visualizations
-├── requirements.txt       # Python dependencies
-├── README.md              # Project documentation
-└── demand_forecasting.ipynb
+├── .gitattributes                              # Git attributes configuration
+├── Preprocessed_demand_forecasting_data.csv    # Preprocessed dataset
+├── README.md                                   # Project documentation
+├── analysis.ipynb                              # Data analysis notebook
+├── app.py                                      # Main application / dashboard
+├── dataset.py                                  # Dataset preprocessing script
+├── demand_forecasting.csv                      # Raw dataset
+├── label_encoders.pkl                          # Saved label encoders
+├── machine_learning.ipynb                      # Machine learning model training
+├── portfolio.code-workspace                    # VS Code workspace settings
+└── xgboost_Demand_model.pkl                    # Trained XGBoost model
 
 [My GitHub](https://github.com/4rthem01)
