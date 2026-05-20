@@ -7,7 +7,7 @@
 This project focuses on forecasting product demand using machine learning based on historical sales data. The process includes data preprocessing, exploratory data analysis, feature engineering, model development, and prediction visualization. The forecasting results can help businesses improve inventory planning, minimize stock shortages, and support more effective data-driven decision-making.
 
 
-### Objectives
+### Function
 - Predict future sales demand
 - Analyze historical sales patterns
 - Improve inventory management
@@ -15,7 +15,7 @@ This project focuses on forecasting product demand using machine learning based 
 
 ---
 
-## 🛠️ Technologies Used
+## Requiered Packages
 
 - Python
 - Pandas
