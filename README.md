@@ -1,12 +1,11 @@
 # 📊 Demand Forecasting Using Machine Learning
 
-A machine learning project that predicts future product demand based on historical sales data. This project helps improve inventory planning, reduce stock shortages, and support business decision-making through data-driven forecasting.
-
 ---
 
 ## 🚀 Project Overview
 
-This project focuses on forecasting product demand using machine learning techniques. The workflow includes data preprocessing, exploratory data analysis, feature engineering, model training, and prediction visualization.
+This project focuses on forecasting product demand using machine learning based on historical sales data. The process includes data preprocessing, exploratory data analysis, feature engineering, model development, and prediction visualization. The forecasting results can help businesses improve inventory planning, minimize stock shortages, and support more effective data-driven decision-making.
+
 
 ### Objectives
 - Predict future sales demand
